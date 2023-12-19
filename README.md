@@ -24,7 +24,9 @@ If you would like to connect this afterwards to your personal Github then:
 - create a new repo and give it a name
 - make sure the repo is public and click `Create Repository`
 - copy the instructions under the title `…or push an existing repository from the command line`
-- paste the commands in your terminal
+- paste the comm
+ands in your terminal
+-***
 
 You have now connected your project to the repo.
 
